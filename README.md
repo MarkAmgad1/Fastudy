@@ -30,12 +30,6 @@ Built with Firebase services for authentication, storage, and real-time database
 
 ---
 
-## 📷 Screenshots
-
-> *(Add screenshots here showing login screen, upload screen, and PDF view screen)*
-
----
-
 ## 🛠 Setup Instructions
 
 1. Clone the repository:
